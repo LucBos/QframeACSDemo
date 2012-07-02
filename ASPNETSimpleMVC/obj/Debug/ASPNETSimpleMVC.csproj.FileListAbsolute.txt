@@ -1,0 +1,5 @@
+Z:\Qframe bootcamp 2012\ACS demo\ASPNETSimpleMVC\bin\ASPNETSimpleMVC.dll
+Z:\Qframe bootcamp 2012\ACS demo\ASPNETSimpleMVC\bin\ASPNETSimpleMVC.pdb
+Z:\Qframe bootcamp 2012\ACS demo\ASPNETSimpleMVC\obj\Debug\ResolveAssemblyReference.cache
+Z:\Qframe bootcamp 2012\ACS demo\ASPNETSimpleMVC\obj\Debug\ASPNETSimpleMVC.dll
+Z:\Qframe bootcamp 2012\ACS demo\ASPNETSimpleMVC\obj\Debug\ASPNETSimpleMVC.pdb
